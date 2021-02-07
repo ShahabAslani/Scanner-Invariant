@@ -47,7 +47,3 @@ We have different scripts for the experiments mentioned in the paper. Baseline e
 3. Get segmented outputs for each 3D patch.
 4. Transfer the 3D patches back to the same location to create the original size brain image (utils.image_gen).
 5. Measure the evaluation metrics as reported in the paper. 
-
----
-(Please feel free to change the readme file, Shahab and Arafat. utils.py and evaluation.py need to be added)
-
